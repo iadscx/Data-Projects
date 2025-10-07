@@ -36,6 +36,13 @@ My current goal is to **transition into new industries** where I can continue to
 
 ---
 
+Portfolio
+
+[**Data Engineering**](Ingenieria_De_Datos)
+[**Data Analyst**](Analisis_De_Datos)
+
+---
+
 ## Contact 📫
 
 If you would like to share ideas, collaborate, or provide feedback:

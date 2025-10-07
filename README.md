@@ -36,6 +36,13 @@ Mi objetivo actual es **dar el salto hacia nuevas industrias** donde pueda segui
 
 ---
 
+Portafolio
+
+[**Ingenieria de datos**](Ingenieria_De_Datos)
+[**Analisis de datos**](Analisis_De_Datos)
+
+---
+
 ## Contacto 📫
 
 Si deseas compartir ideas, colaboraciones o comentarios:
