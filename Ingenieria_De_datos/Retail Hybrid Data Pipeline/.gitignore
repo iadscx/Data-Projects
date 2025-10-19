@@ -1,0 +1,106 @@
+__pycache__/
+.venv/
+.env
+*.pyc
+data/
+logs/
+.airflow/
+
+# PYTHON
+
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# ENVIRONMENTS & CONFIGS
+
+.env
+.env.*
+venv/
+ENV/
+env/
+.venv/
+pip-wheel-metadata/
+*.bak
+
+# LOGS & OUTPUTS
+
+logs/
+*.log
+*.out
+*.err
+
+# DATA FILES
+
+data/raw/
+data/processed/
+data/tmp/
+data/minio/
+*.csv
+*.json
+*.parquet
+
+# AIRFLOW
+
+airflow.db
+airflow-webserver.pid
+airflow.cfg
+unittests.cfg
+dags/__pycache__/
+plugins/__pycache__/
+include/
+# SQLite default db
+*.db
+
+# DOCKER
+
+.docker/
+docker-compose.override.yml
+*.pid
+*.sock
+*.tar
+*.log
+
+# JUPYTER 
+
+.ipynb_checkpoints/
+notebooks/.ipynb_checkpoints
+*.ipynb_checkpoints
+
+# SYSTEM / OS
+
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDEs / EDITORS
+
+.vscode/
+.idea/
+*.swp
+*.swo
+*.tmp
+*.bak
+*.orig
+
+# CLOUD CREDENTIALS / SECRETS
+
+aws_credentials/
+gcp_credentials/
+keys/
+*.pem
+*.key
+*.json
+
+
+data/raw/              # Archivos de datos descargados
+data/processed/        # Datos transformados
+.idea/ .vscode/        # Configuración del editor
+
